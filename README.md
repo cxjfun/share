@@ -1,2 +1,3 @@
-# share
-分享目录
+# qrcode
+一款jQuery二维码插件
+
